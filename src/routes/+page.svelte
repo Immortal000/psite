@@ -1,19 +1,8 @@
 <script>
-	import '$lib/app.css';
+	import '$lib/styles/app.css';
+	// import Project from '$lib/components/project.svelte';
+	import Project from '$lib/components/project.svelte';
+	import Sidebar from '$lib/components/sidebar.svelte';
 </script>
 
-<div>
-	<!-- Navbar -->
-	<div>Navbar</div>
-	<!-- Background and name -->
-	<div>
-		<div
-			class="w-1/3 h-80 border-2 border-slate-300 pattern-boxes pattern-slate-300 pattern-bg-white dark:pattern-bg-black pattern-opacity-40 pattern-size-4"
-		>
-			<div class="">
-				<h1 class="text-6xl font-bold text-slate-50">Hi, Im Sid</h1>
-			</div>
-		</div>
-		<div>Links</div>
-	</div>
-</div>
+<div class="container w-3/4 h-screen mx-auto" />

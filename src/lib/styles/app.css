@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	:root[data-theme='dark'] {
+		--color-bkg: 24 24 24;
+		--color-text: 239 238 237;
+	}
+
+	:root[data-theme='light'] {
+		--color-bkg: 255 255 255;
+		--color-text: 0 0 0;
+	}
+}

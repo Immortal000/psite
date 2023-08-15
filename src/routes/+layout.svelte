@@ -3,5 +3,5 @@
 	import Floatingbar from '$lib/components/floatingbar.svelte';
 </script>
 
-<Sidebar />
+<Sidebar/>
 <slot />

@@ -1,5 +1,5 @@
 <div
-	class="absolute bottom-12 transform left-1/2 -translate-x-1/2 md:w-1/3 rounded-full border-2 border-black h-[3rem] flex justify-evenly items-center w-full"
+	class="absolute bottom-12 transform left-1/2 -translate-x-1/2 md:w-1/3 rounded-full border-2 border-black h-[3rem] flex justify-evenly items-center w-full bg-bkg"
 >
 	<svg xmlns="http://www.w3.org/2000/svg" height="2em" viewBox="0 0 448 512" class="text-content"
 		><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path
